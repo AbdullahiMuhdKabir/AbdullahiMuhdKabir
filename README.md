@@ -57,7 +57,7 @@ Currently, I'm working on a **Temporal Anomaly Detection API** for enhanced deep
 
 - **Email:** [abdullahimk82@gmail.com](mailto:abdullahimk82@gmail.com)
 - **LinkedIn:** [Abdullahi MK](https://www.linkedin.com/in/abdullahi-mk-2896872bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)
+- **GitHub:** [Your GitHub Profile]([https://github.com/yourprofile](https://github.com/AbdullahiMuhdKabir/AbdullahiMuhdKabir)
 
 Feel free to reach out if you're interested in collaborating on projects or if you have any questions about my work!
 
